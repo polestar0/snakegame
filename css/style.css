@@ -22,6 +22,14 @@
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
+#scoreeBox{
+    position: absolute;
+    top: 9px;
+    left: 200px;
+    font-size: 39px;
+    font-weight: bold;
+    font-family: 'New Tegomin', serif;
+}
 
 #hiscoreBox{
     position: absolute;
